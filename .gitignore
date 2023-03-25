@@ -11,8 +11,8 @@
 .history
 .svn/
 migrate_working_dir/
-.ios/*
-.android/*
+.ios/
+.android/
 
 
 
