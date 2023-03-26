@@ -15,7 +15,9 @@ ios/
 android/
 asset/
 lib/firebase_options.dart
-
+pubspec.yaml
+lib/mofels/app_user.dart
+windows
 
 
 # IntelliJ related
