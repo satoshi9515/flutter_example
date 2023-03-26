@@ -2,6 +2,7 @@
 
 # Miscellaneous
 *.class
+web/
 *.log
 *.pyc
 *.swp
@@ -13,11 +14,12 @@
 migrate_working_dir/
 ios/
 android/
-asset/
-lib/firebase_options.dart
-pubspec.yaml
-lib/mofels/app_user.dart
-windows
+assets/
+lib/firebase_options
+pubspec.yaml/
+/lib/models/app_user
+windows/
+.metadata
 
 
 # IntelliJ related
