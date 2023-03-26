@@ -16,7 +16,7 @@ ios/
 android/
 assets/
 lib/firebase_options
-pubspec.yaml/
+pubspec.yaml
 lib/models/app_user.dart
 windows/
 .metadata
